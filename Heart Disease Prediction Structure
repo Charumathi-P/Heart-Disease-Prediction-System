@@ -1,0 +1,32 @@
+Heart-Disease-Prediction/
+│
+├── app.py
+├── train_model.py
+├── predict.py
+├── requirements.txt
+├── README.md
+├── heart.csv
+├── model.pkl
+├── scaler.pkl
+│
+├── templates/
+│   ├── index.html
+│   ├── result.html
+│   └── dashboard.html
+│
+├── static/
+│   ├── css/
+│   │    └── style.css
+│   ├── js/
+│   │    └── script.js
+│   └── images/
+│        ├── banner.png
+│        ├── home.png
+│        ├── prediction.png
+│        └── result.png
+│
+└── screenshots/
+     ├── home.png
+     ├── form.png
+     ├── result.png
+     └── dashboard.png
